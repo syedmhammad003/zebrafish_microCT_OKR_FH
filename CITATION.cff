@@ -1,0 +1,31 @@
+# Citation metadata for GitHub's "Cite this repository" button.
+# Fill in the placeholders, and uncomment the DOI lines once the DOIs exist.
+cff-version: 1.2.0
+message: "If you use this model or code, please cite this software listed under references."
+
+title: "zebrafish_microCT_OKR_FH"
+
+type: software
+
+authors:
+  - family-names: "[Patil]"
+    given-names: "[Manjiri]"
+    # orcid: "https://orcid.org/0009-0001-9426-1687
+    # affiliation: "[The University of Leicester Ulverscroft Eye Unit, School of Psychology and Vision Sciences, University of Leicester, RKCSB, PO Box 65, Leicester LE2 7LX, UK]"
+
+  - family-names: "[Syed]"
+    given-names: "[Hammad]"
+    # orcid: "https://orcid.org/0009-0004-3812-5922"
+    # affiliation: "[The University of Leicester Ulverscroft Eye Unit, School of Psychology and Vision Sciences, University of Leicester, RKCSB, PO Box 65, Leicester LE2 7LX, UK]"
+
+  - family-names: "[Thomas]"
+    given-names: "[Mervyn]"
+    # orcid: "https://orcid.org/0000-0002-4630-1234"
+    # affiliation: "[Department of Ophthalmology, University Hospitals of Leicester NHS Trust, Leicester LE1 5WW, UK]"
+
+license:
+  - MIT
+  - CC-BY-4.0
+
+# repository-code: "https://github.com/[syedmhammad003]"
+# doi: "[software DOI from the Zenodo-GitHub release]"

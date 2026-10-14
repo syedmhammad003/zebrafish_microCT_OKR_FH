@@ -1,0 +1,14 @@
+gratingStart,gratingDuration,gratingSize,gratingOrientation,gratingContrast,gratingPhase,gratingSpatialFreq,gratingOpacity,desired_speed,deg_per_cycle,deg_per_sec,cpd,orientation_RE,orientation_BE,total_time
+0,5,"(1.8, 1)",0,1,0,6,1,0,15,0,0.066666667,nasotemporal,clockwise,125
+0,10,"(1.8, 1)",0,1,0.333333333,2,1,15,45,15,0.022222222,nasotemporal,clockwise,
+0,10,"(1.8, 1)",0,1,0.666666667,4,1,15,22.5,15,0.044444444,nasotemporal,clockwise,
+0,10,"(1.8, 1)",0,1,1,6,1,15,15,15,0.066666667,nasotemporal,clockwise,
+0,10,"(1.8, 1)",0,1,1.333333333,8,1,15,11.25,15,0.088888889,nasotemporal,clockwise,
+0,10,"(1.8, 1)",0,1,1.666666667,10,1,15,9,15,0.111111111,nasotemporal,clockwise,
+0,10,"(1.8, 1)",0,1,2.333333333,14,1,15,6.428571429,15,0.155555556,nasotemporal,clockwise,
+0,10,"(1.8, 1)",180,1,0.333333333,2,1,15,45,15,0.022222222,temporonasal,anti-clockwise,
+0,10,"(1.8, 1)",180,1,0.666666667,4,1,15,22.5,15,0.044444444,temporonasal,anti-clockwise,
+0,10,"(1.8, 1)",180,1,1,6,1,15,15,15,0.066666667,temporonasal,anti-clockwise,
+0,10,"(1.8, 1)",180,1,1.333333333,8,1,15,11.25,15,0.088888889,temporonasal,anti-clockwise,
+0,10,"(1.8, 1)",180,1,1.666666667,10,1,15,9,15,0.111111111,temporonasal,anti-clockwise,
+0,10,"(1.8, 1)",180,1,2.333333333,14,1,15,6.428571429,15,0.155555556,temporonasal,anti-clockwise,

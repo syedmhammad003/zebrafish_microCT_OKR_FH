@@ -1,0 +1,34 @@
+# Conda environment for the PRL thickness polar-map notebook.
+#
+# Create and activate:
+#   conda env create -f environment.yml
+#   conda activate zf-prl-thickness
+#
+# Then start Jupyter from the repository root:
+#   jupyter lab
+#
+# the analysis was run in
+# (Python 3.11.16, conda-forge, Windows 10).
+
+name: zf-prl-thickness
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      # Core analysis
+      - numpy==2.4.6
+      - scipy==1.17.1
+      - matplotlib==3.11.1
+      - scikit-image==0.26.0
+      - tifffile==2026.3.3          
+      - imageio==2.37.4             
+      
+      - pandas==3.0.5
+      - seaborn==0.13.2
+      - plotly==7.1.0
+      - opencv-python-headless==5.0.0.93   # provides `import cv2`
+      # Jupyter
+      - ipykernel==7.3.0
+      - jupyterlab==4.6.3

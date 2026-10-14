@@ -1,0 +1,24 @@
+# ---- Local data and results (not part of the repository) ----
+data/
+outputs/
+predictions/
+*.tif
+*.tiff
+*.npy
+*.czi
+*.mp4
+*.avi
+*.h5
+*.smrx
+
+# ---- Jupyter ----
+.ipynb_checkpoints/
+
+# ---- Python ----
+__pycache__/
+*.pyc
+
+# ---- Operating system ----
+.DS_Store
+Thumbs.db
+desktop.ini

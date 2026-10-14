@@ -1,0 +1,24 @@
+# Conda environment for running the arivis model in Python (run_arivis_model.ipynb / .py).
+#
+# Create and activate:
+#   conda env create -f environment.yml
+#   conda activate zf-arivis-model
+#
+# Then start Jupyter from this folder:
+#   jupyter lab
+
+name: zf-arivis-model
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - numpy==2.4.6
+      - tifffile==2026.3.3
+      - matplotlib==3.11.1
+      - onnxruntime==1.30.0         # runs the ONNX model inside model.czann / model.czmodel
+      - onnx==1.23.0                # reads the model's input normalisation
+      # Jupyter
+      - ipykernel==7.3.0
+      - jupyterlab==4.6.3

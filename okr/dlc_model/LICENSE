@@ -1,0 +1,22 @@
+The DeepLabCut model in this folder (config.yaml and the trained network in
+dlc-models/) is licensed under the Creative Commons Attribution 4.0
+International licence (CC BY 4.0).
+
+Copyright (c) 2025 [Mervyn Thomas]
+
+You are free to share and adapt the model for any purpose, including
+commercially, provided you give appropriate credit, provide a link to the
+licence, and indicate if changes were made.
+
+When using the model, please cite:
+
+Patil M, Birchall A, Syed H, Rodwell V, Yoon H-J, Norton WHJ, Thomas MG.
+A Deep Learning Approach to Measure Visual Function in Zebrafish.
+Biology 14, 663 (2025). https://doi.org/10.3390/biology14060663
+
+Mathis A, Mamidanna P, Cury KM, et al. DeepLabCut: markerless pose estimation
+of user-defined body parts with deep learning. Nature Neuroscience 21,
+1281-1289 (2018). https://doi.org/10.1038/s41593-018-0209-y
+
+Full licence text: https://creativecommons.org/licenses/by/4.0/legalcode
+Summary: https://creativecommons.org/licenses/by/4.0/
